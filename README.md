@@ -62,8 +62,8 @@ The nRF24L01 module communicates with the ESP32 using the SPI protocol. Below is
 | ------------ | --------- | ----------------------- |
 | VCC          | 3.3V      | Power supply (3.3V)     |
 | GND          | GND       | Ground                  |
-| CE           | D2        | Chip Enable             |
-| CSN (CS)     | D15       | Chip Select Not         |
+| CE           | D15        | Chip Enable             |
+| CSN (CS)     | D2       | Chip Select Not         |
 | SCK          | D18       | SPI Clock               |
 | MOSI         | D23       | SPI Master Out Slave In |
 | MISO         | D19       | SPI Master In Slave Out |
